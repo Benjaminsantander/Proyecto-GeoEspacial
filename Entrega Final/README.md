@@ -18,10 +18,15 @@ Para ejecutar el Jupyter Notebook correctamente, sigue estos pasos:
 
 - El proyecto está desarrollado en Python, utilizando las siguientes librerías:
   - Google Earth Engine
-  - Librerías para Machine Learning.
+  - Librerías para Machine Learning
   - Librerías para Manejo de Datos
-  - Librerías para Visualización.
+  - Librerías para Visualización
 - Es necesario tener una cuenta en [Google Earth Engine](https://code.earthengine.google.com) y un proyecto configurado para obtener un token.
 - El token será solicitado al ejecutar las celdas del Jupyter Notebook.
 
+## Bibliografía
+
+- Datos obtenidos de: [Geoportal Chile](https://www.geoportal.cl/geoportal/catalog/35993/Glaciares%20de%20Chile)
+
 ---
+
