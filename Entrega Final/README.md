@@ -6,6 +6,7 @@
 - **Notebook**: El análisis se realiza en `analisis_de_glaciar.ipynb`.
 - **Presentación**: Disponible en la carpeta `PPT`.
 - **Informe**: Disponible en la carpeta `Informe PDF`.
+- **Visualizaciones**: Disponible en las carpetas `Static Change`, `Gifs Testing`, `Gifs Testing Model 2` y `area_graphs`.
 
 ## Descomprimir Datos
 
